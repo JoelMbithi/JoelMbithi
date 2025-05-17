@@ -24,7 +24,7 @@ I specialize in building modern, responsive web applications with clean, efficie
 ### 🏆 Featured Projects
 
 1. **Hotel Booking Platform** - Full-stack reservation system with React frontend and Node.js backend  
-   [View Code](https://github.com/JoelMbithi/FullStackDev) | [Live Demo](#) *(add link when available)*
+   https://github.com/JoelMbithi/FullStackDev | [Live Demo](#) *(add link when available)*
 
 2. **E-commerce Dashboard** - Admin interface with analytics and inventory management  
    [View Code](#) | [Live Demo](#)
