@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer | UI/UX Enthusiast
 
-I specialize in building modern, responsive web applications with clean, efficient code. With expertise across the full stack, I create seamless user experiences from pixel-perfect frontends to robust backend systems.
+I specialize in developing modern, responsive web applications with clean, efficient code. Leveraging full-stack expertise, I craft seamless digital experiences—from intuitive, pixel-perfect frontends to powerful, scalable backend systems.
 
 ### 🔧 Technical Skills
 
