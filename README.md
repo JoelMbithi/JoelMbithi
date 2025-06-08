@@ -24,7 +24,7 @@ I specialize in developing modern, responsive web applications with clean, effic
 ### 🏆 Featured Projects
 
 1. **Build Estate Website** - Full-stack reservation system with React frontend and Node.js backend  
-https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(add link when available)*
+https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!)*
 
 2. **E-commerce Dashboard** - Admin interface with analytics and inventory management  
    [View Code](#) | [Live Demo](#)
