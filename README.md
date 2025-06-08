@@ -26,10 +26,12 @@ I specialize in developing modern, responsive web applications with clean, effic
 1. **Build Estate Website** - Full-stack reservation system with React frontend and Node.js backend  
 https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!)*
 
-2. **E-commerce Dashboard** - Admin interface with analytics and inventory management  
+2. **Joe-Gigs-Website** - Joe-Gigs-Website is a full-featured, full-stack platform built for managing freelance gigs.
+   
    [View Code](#) | [Live Demo](#)
+   
 
-3. **Portfolio Template** - Responsive design with CMS integration  
+4. **Portfolio Template** - Responsive design with CMS integration  
    [View Code](#) | [Live Demo](#)
 
 
