@@ -32,20 +32,20 @@ I specialize in developing modern, responsive web applications with clean, effic
 3. **Portfolio Template** - Responsive design with CMS integration  
    [View Code](#) | [Live Demo](#)
 
-*(Add 2-3 more projects with descriptions and links)*
+
 
 ### 🎓 Professional Experience
 
-**Web Developer @ Company Name** *(202X-Present)*  
+**Web Developer Freelance** *(2022 up to Present)*  
 - Developed and maintained 15+ React components improving user engagement by 40%  
 - Optimized SQL queries reducing page load times by 65%  
 - Collaborated with UX team to implement responsive designs  
 
-**Freelance Developer** *(202X-202X)*  
+**Freelance Developer** *(2022-2025)*  
 - Delivered 10+ client websites meeting all project requirements  
 - Implemented CI/CD pipelines reducing deployment times by 75%  
 
-*(Add relevant experience with metrics/results)*
+
 
 ### 📫 Let's Connect
 
