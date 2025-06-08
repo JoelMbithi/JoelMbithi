@@ -31,8 +31,8 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
    https://github.com/JoelMbithi/Joe-Gig-Web | FrontEnd Only | [https://full-stack-dev-jx3r.vercel.app/]
    
  
-4. **QuickCart** - Responsive design with CMS integration  
-   [View Code](#) | [Live Demo](#)
+4. **QuickCart** - QuickCart is a modern, mobile-responsive e-commerce web application built with **React**, **Node.js**, and **PostgreSQL**, featuring full **CMS integration** for easy product and content management. It supports dynamic inventory, secure checkout, and a clean admin panel for managing products, categories, and orders. 
+   https://joe-devhub-xl5x.vercel.app/
 
 
 
