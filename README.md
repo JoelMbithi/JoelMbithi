@@ -31,7 +31,7 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
    https://github.com/JoelMbithi/Joe-Gig-Web | FrontEnd Only | [https://full-stack-dev-jx3r.vercel.app/]
    
  
-4. **Portfolio Template** - Responsive design with CMS integration  
+4. **QuickCart** - Responsive design with CMS integration  
    [View Code](#) | [Live Demo](#)
 
 
