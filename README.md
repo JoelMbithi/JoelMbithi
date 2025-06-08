@@ -28,9 +28,9 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
 
 2. **Joe-Gigs-Website** - Joe-Gigs-Website is a full-featured, full-stack platform built for managing freelance gigs.
    
-   [View Code](#) | [Live Demo](#)
+   https://github.com/JoelMbithi/Joe-Gig-Web | FrontEnd Only | [https://full-stack-dev-jx3r.vercel.app/]
    
-
+ 
 4. **Portfolio Template** - Responsive design with CMS integration  
    [View Code](#) | [Live Demo](#)
 
