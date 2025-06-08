@@ -34,12 +34,7 @@ I specialize in developing modern, responsive web applications with clean, effic
 
 
 
-### 🎓 Professional Experience
-
-**Web Developer Freelance** *(2022 up to Present)*  
-- Developed and maintained 15+ React components improving user engagement by 40%  
-- Optimized SQL queries reducing page load times by 65%  
-- Collaborated with UX team to implement responsive designs  
+### 🎓 Professional Experience  
 
 **Freelance Developer** *(2022-2025)*  
 - Delivered 10+ client websites meeting all project requirements  
