@@ -63,10 +63,12 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
     <img src="https://skillicons.dev/icons?i=github" style="height: 35px;" alt="GitHub" />
   </a>
 
-  <!-- Portfolio Icon -->
- <a href="https://yourportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Portfolio" style="height: 35px;" />
+  
+ <!-- Portfolio Icon -->
+<a href="https://personal-portfolio-qjkas5y1g-joelmbithis-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" style="height: 35px;" alt="Portfolio" />
 </a>
+
 </div>
 
 
