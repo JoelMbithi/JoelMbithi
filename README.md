@@ -48,19 +48,27 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
 ### 📫 Let's Connect
 
 <div align="left">
-  <a href="mailto:joellembithi@gmail.com" target="_blank">
+  <!-- Email Icon -->
+  <a href="mailto:joellembithi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" style="height: 35px;" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/joel-mbithi-84bab9278/" target="_blank">
+
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/joel-mbithi-84bab9278/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" style="height: 35px;" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/JoelMbithi" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=github](https://github.com/JoelMbithi)" style="height: 35px;" alt="GitHub" />
+
+  <!-- GitHub Icon -->
+  <a href="https://github.com/JoelMbithi" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" style="height: 35px;" alt="GitHub" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=netlify](https://personal-portfolio-qjkas5y1g-joelmbithis-projects.vercel.app/)" style="height: 35px;" alt="Portfolio" />
+
+  <!-- Portfolio Icon -->
+  <a href="https://personal-portfolio-qjkas5y1g-joelmbithis-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" style="height: 35px;" alt="Portfolio" />
   </a>
 </div>
+
 
 ---
 
