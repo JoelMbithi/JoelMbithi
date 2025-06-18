@@ -55,10 +55,10 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
     <img src="https://skillicons.dev/icons?i=linkedin" style="height: 35px;" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JoelMbithi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" style="height: 35px;" alt="GitHub" />
+    <img src="[https://skillicons.dev/icons?i=github](https://github.com/JoelMbithi)" style="height: 35px;" alt="GitHub" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify" style="height: 35px;" alt="Portfolio" />
+    <img src="[https://skillicons.dev/icons?i=netlify](https://personal-portfolio-qjkas5y1g-joelmbithis-projects.vercel.app/)" style="height: 35px;" alt="Portfolio" />
   </a>
 </div>
 
