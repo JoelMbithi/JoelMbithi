@@ -66,4 +66,4 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
 
 💡 **Currently learning:** Advanced React patterns & GraphQL  
 🌱 **Fun fact:** I contribute to open source projects in my free time  
-📝 [Download My Resume](#) *(add link to PDF resume)*
+📝 [Download My Resume] 
