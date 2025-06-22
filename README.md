@@ -58,7 +58,7 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
     <img src="https://skillicons.dev/icons?i=linkedin" style="height: 35px;" alt="LinkedIn" />
   </a>
 
-  <!-- GitHub Icon -->
+  <!-- GitHub Icon joe -->
   <a href="https://github.com/JoelMbithi" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" style="height: 35px;" alt="GitHub" />
   </a>
