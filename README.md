@@ -26,7 +26,10 @@ I specialize in developing modern, responsive web applications with clean, effic
 1. **Build Estate Website** - Full-stack reservation system with React frontend and Node.js backend  
 https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!)*
 
-2. **Joe-Gigs-Website** - Joe-Gigs-Website is a  full-featured, full-stack platform built for managing freelance gigs.
+2. **City Connect** – A responsive, community-oriented web platform built to centralize city services, event calendars, and important announcements for Nairobi residents.
+[https://github.com/JoelMbithi/Joe-Gig-Web](https://github.com/JoelMbithi/Joe-Gig-Web) | Live Demo: [https://city-connect-euh1-git-main-joelmbithis-projects.vercel.app/](https://city-connect-euh1-git-main-joelmbithis-projects.vercel.app/)
+
+3. **Joe-Gigs-Website** - Joe-Gigs-Website is a  full-featured, full-stack platform built for managing freelance gigs.
    
    https://github.com/JoelMbithi/Joe-Gig-Web | FrontEnd Only | [https://full-stack-dev-jx3r.vercel.app/]
    
