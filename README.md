@@ -27,14 +27,16 @@ I specialize in developing modern, responsive web applications with clean, effic
 https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!)*
 
 2. **City Connect** – A responsive, community-oriented web platform built to centralize city services, event calendars, and important announcements for Nairobi residents.
+
+   
 [https://github.com/JoelMbithi/City-Connect.git] | FrontEnd Only | [https://city-connect-fj8b.vercel.app/])
 
-3. **Joe-Gigs-Website** - Joe-Gigs-Website is a  full-featured, full-stack platform built for managing freelance gigs.
+4. **Joe-Gigs-Website** - Joe-Gigs-Website is a  full-featured, full-stack platform built for managing freelance gigs.
    
    https://github.com/JoelMbithi/Joe-Gig-Web | FrontEnd Only | [https://full-stack-dev-jx3r.vercel.app/]
    
  
-4. **QuickCart** - QuickCart is a modern and responsive full-stack e-commerce website built with React, Node.js and PostgreSQL. 
+5. **QuickCart** - QuickCart is a modern and responsive full-stack e-commerce website built with React, Node.js and PostgreSQL. 
 
    https://joe-devhub-xl5x.vercel.app/
 
