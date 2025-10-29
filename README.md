@@ -67,7 +67,7 @@ https://github.com/JoelMbithi/Build-Estate-Website | [Live Demo] *(Cooming Soon!
 
   
  <!-- Portfolio Icon -->
-<a href="https://personal-portfolio-b5ra8v0rl-joelmbithis-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="[https://personal-portfolio-b5ra8v0rl-joelmbithis-projects.vercel.app/](https://personal-portfolio-dusky-nu-44.vercel.app/)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/domain.png" style="height: 35px;" alt="Portfolio" />
 </a>
 
